@@ -13,6 +13,21 @@
 
  <hr />
 
+ #### usage
+<Modal
+    onSelectOption={(option) => console.log('@option/options', option)}
+    modalOptions={[
+    {name:'Option 1', value:'1'},
+    {name:'Option 2', value:'2'},
+    {name:'Option 3', value:'3'},
+    {name:'Option 4', value:'4'},
+    {name:'Option 5', value:'5'},
+    ]}
+    visible={this.state.visible}
+    autoClose={true}
+    multiple={false}
+/>
+
 
 ### Installation
 make sure you have installed react-native-vector-icons & linked it :) , or install 
