@@ -14,6 +14,7 @@
  <hr />
 
  #### usage
+```
 <Modal
     onSelectOption={(option) => console.log('@option/options', option)}
     modalOptions={[
@@ -27,6 +28,7 @@
     autoClose={true}
     multiple={false}
 />
+```
 
 
 ### Installation
