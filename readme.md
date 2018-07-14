@@ -6,8 +6,8 @@
  - all section of component is reusable for developer customize
  - hope this help :)
 
- <img src="./rn-modal-awesome-android.gif" alt="alt text" width="100" height="100" style="float:right">
- <img src="./rn-modal-awesome-ios.gif" alt="alt text" width="100" height="100" style="float:left">
+ <img src="./rn-modal-awesome-android.gif" alt="alt text" width="400" height="400" style="float:left">
+ <img src="./rn-modal-awesome-ios.gif" alt="alt text" width="400" height="400" style="float:left">
 
  <hr />
 
