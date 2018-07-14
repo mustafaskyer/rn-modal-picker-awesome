@@ -5,9 +5,11 @@
  - The Modal is Smart enough to close automatioc in both [ single, multi ] Selection
  - all section of component is reusable for developer customize
  - hope this help :)
+##### Ios
+ <img src="./rn-modal-awesome-ios.gif" alt="alt text" width="300" height="500" style="float:left">
 
+##### Android
  <img src="./rn-modal-awesome-android.gif" alt="alt text" width="400" height="400" style="float:left">
- <img src="./rn-modal-awesome-ios.gif" alt="alt text" width="400" height="400" style="float:left">
 
  <hr />
 
